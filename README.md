@@ -6,11 +6,10 @@ A user-friendly password generator built with React and styled using Bootstrap 5
 - **Password Length Control**: Users can specify the desired length of the generated password.
 - **Character Options**: Choose to include uppercase letters, lowercase letters, numbers, and special characters.
 - **Copy to Clipboard**: Easily copy the generated password to the clipboard with a single click.
-- **Responsive Design**: Clean and intuitive UI with Bootstrap 5, ensuring a seamless experience on both desktop and mobile devices.
 
 ## Technologies Used
 - **React**: For building the interactive user interface.
-- **Bootstrap 5**: For responsive and modern design elements.
+- **Bootstrap 5**: For  modern design elements.
 - **JavaScript**: For implementing the password generation logic.
 
 ## Installation
@@ -21,7 +20,9 @@ A user-friendly password generator built with React and styled using Bootstrap 5
    ```bash
    cd password_generator
 3.Install dependencies:
+   ```bash
    npm install
 4.Start the application:
+   ```bash
    npm start
 
