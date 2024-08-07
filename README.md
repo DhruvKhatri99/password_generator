@@ -21,18 +21,18 @@ A user-friendly password generator built with React and styled using Bootstrap 5
    ```bash
    git clone https://github.com/DhruvKhatri99/password_generator.git
    ```
-2.Navigate to the project directory:
+2. Navigate to the project directory:
    ```bash
    cd password_generator
    ```
 
-3.Install dependencies:
+3. Install dependencies:
    ```bash
    npm install
    ```
 
-4.Start the application:
+4. Start the application:
    ```bash
-   npm start
+   npm run dev
    ```
 
